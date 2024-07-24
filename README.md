@@ -5,6 +5,8 @@
 > [!IMPORTANT]
 > This decomp was made by @SpanishFreddy I only archived it since he removed it from github.
 
+![alt text](https://play-lh.googleusercontent.com/cJsK0l-g6hUyjMPCEQ-B1LaoJnnZijuF_oXhimsvxvsNA0RZUYuUhAUFUwjU0eWLGKY=w2560-h1440-rw)
+
 ## Thanks to
 - My friend Pradzuhs for having the decompilation on his drive
 - SpanishFreddy for the decompilation of Angry Neighbor
