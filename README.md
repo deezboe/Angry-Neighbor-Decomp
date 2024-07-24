@@ -6,6 +6,7 @@
 > This decomp was made by @SpanishFreddy I only archived it since he removed it from github.
 
 ## Thanks to
+- My friend Pradzuhs for having the decompilation on his drive
 - SpanishFreddy for the decompilation of Angry Neighbor
 - Invictus Studio for making Angry Neighbor
 - And the Angry Neighbor Community for being epic
