@@ -1,6 +1,8 @@
 # Angry Neighbor Decomp
 
-> Download: https://drive.google.com/file/d/11lOt3wl1SHf3fCvilt7VIXr-hRKiYnOM/view?usp=drive_link
+> Download: https://drive.google.com/file/d/11lOt3wl1SHf3fCvilt7VIXr-hRKiYnOM/view?usp=drive_link\
+> 
+Unity Version 2018.1.0f1
 
 > [!IMPORTANT]
 > This decomp was made by @SpanishFreddy I only archived it since he removed it from github.
