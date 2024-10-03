@@ -9,6 +9,9 @@ Unity Version 2018.1.0f1
 
 ![alt text](https://play-lh.googleusercontent.com/cJsK0l-g6hUyjMPCEQ-B1LaoJnnZijuF_oXhimsvxvsNA0RZUYuUhAUFUwjU0eWLGKY=w2560-h1440-rw)
 
+## Bugs
+- The game crashes when the player gets caught.
+
 ## Thanks to
 - My friend Pradzuhs for having the decompilation on his drive
 - SpanishFreddy for the decompilation of Angry Neighbor
@@ -16,4 +19,4 @@ Unity Version 2018.1.0f1
 - And the Angry Neighbor Community for being epic
 
 ## To Developers
-Can someone please make a web port if want to spend your time on this goofy ahh neighbor you can go ahead and try to fix the crazy amount of errors :skull: :skull: :skull: :skull:
+if want to spend your time on this goofy ahh neighbor you can go ahead and try to fix bugs :skull: :skull: :skull: :skull:
